@@ -4,7 +4,7 @@
 
 Picassolana is an innovative Pay-to-Earn prompt-engineering game where creativity meets the blockchain. Each day, we publish an image, and contestants across the web and Telegram can compete by attempting to find a prompt that leads the closest to the published image. Contestants are scored from 0 to 100, and the best submission of the day wins an NFT generated exclusively for the occasion. With a leaderboard to track top performers and a shareable option to spread the word, Picassolana is not just a game – it's a daily NFT challenge for the best at prompt engineering.
 
-- [Demo Live App](picassolano-client.vercel.app)
+- [Demo Live App](http://picassolana.surge.sh)
 - [Demo Telegram](https://t.me/picassolana_bot)
 - [Demo Video](https://www.loom.com/share/c4e2463149334fc088704143eff7028e?sid=cce481cd-ccec-495a-95e6-2fb768d88d53)
 - [Pitch Deck](https://www.canva.com/design/DAF_CIhoANg/tHxmZ3rtWPjCzl5oArnL5g/edit?utm_content=DAF_CIhoANg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
